@@ -36,3 +36,7 @@ The build bundles `src/main.ts` into `main.js` with esbuild. Copy (or symlink) `
 | `src/settings.ts` | Settings shape, defaults, legacy-format migration, input parsing |
 | `src/settings-tab.ts` | Settings UI |
 | `src/folder-pick-modal.ts` | Fuzzy folder picker used by the commands |
+
+## License
+
+MIT — see [LICENSE](LICENSE).
