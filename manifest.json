@@ -1,0 +1,9 @@
+{
+    "id": "unhidden",
+    "name": "Unhidden",
+    "description": "Reveal hidden dot-folders (like .claude or .github) in the file explorer, search, and Bases, with live updates, file-type filters, and exclusions.",
+    "version": "1.0.0",
+    "minAppVersion": "1.4.0",
+    "isDesktopOnly": true,
+    "author": "NoteNerd"
+}

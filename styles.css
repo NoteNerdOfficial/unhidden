@@ -1,0 +1,35 @@
+/* Unhidden — settings tab styles. Scoped to .unhidden-* classes only. */
+
+.unhidden-hint {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  margin: 0 0 var(--size-4-3) 0;
+}
+
+.unhidden-folder-list {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  padding: var(--size-4-1) var(--size-4-3);
+  margin-bottom: var(--size-4-4);
+}
+
+.unhidden-folder-list .setting-item-name {
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-small);
+}
+
+.unhidden-bulk-actions {
+  border-top: none;
+  justify-content: flex-end;
+}
+
+.unhidden-allowlist textarea {
+  width: 100%;
+  min-height: 7em;
+  font-family: var(--font-monospace);
+  font-size: var(--font-ui-small);
+}
+
+.unhidden-allowlist .setting-item-control {
+  flex-grow: 1;
+}
